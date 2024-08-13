@@ -8,7 +8,6 @@ Ailurophile Stealer is a powerful and efficient tool for collecting sensitive da
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [System Requirements](#system-requirements)
 - [Usage](#usage)
 - [Features](#features)
 - [Images](#images)
